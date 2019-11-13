@@ -5,7 +5,7 @@ Instructions to use this project:
 
 1)Create a maps activity in adnroid studio
 
-2)Modify copy and paste mapsActivity.java and KDTree.java into the src folder 
+2)Copy and paste mapsActivity.java and KDTree.java into the src folder 
 
 3)Copy cities.json in assets folder
 
