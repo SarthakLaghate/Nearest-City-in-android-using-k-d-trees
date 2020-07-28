@@ -3,10 +3,10 @@ Finding nearest city to a position in android using k-d trees
 
 Instructions to use this project:
 
-1)Create a maps activity in adnroid studio
+1. Create a maps activity in android studio
 
-2)Copy and paste mapsActivity.java and KDTree.java into the src folder 
+2. Add the code from "mapsActivity.java" and "KDTree.java" into the src folder 
 
-3)Copy cities.json in assets folder
+3. Copy cities.json into your assets folder
 
-4)run the app
+4. Run the app either in emulator or in your android phone.
